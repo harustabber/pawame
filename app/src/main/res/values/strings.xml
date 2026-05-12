@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">pawame</string>
+    <string name="title_activity_header_section">HeaderSection</string>
+</resources>
